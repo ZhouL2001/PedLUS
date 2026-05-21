@@ -1,5 +1,4 @@
 # Artifact-Aware Self-supervised Temporal Learning for Pediatric Lung Ultrasound Scoring
-
 ## Severity Assessment
 •	Score 0—normal sliding, regular pleural line, and A-lines with fewer than 3 isolated B-lines;
 
